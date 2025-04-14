@@ -10,4 +10,5 @@ On root, run the following commands:
 The executable should be in build/CookieClicker.exe.
 
 ## Preview
-todo
+https://github.com/user-attachments/assets/3e47f520-01aa-48bf-981f-cfbf390d6a7f
+
